@@ -1,7 +1,3 @@
-/*
-Copyright (C) Deepali Srivastava - All Rights Reserved
-This code is part of DSA course available on CourseGalaxy.com  
-*/
 
 /* Shortest distance and shortest path of a vertex from start vertex using BFS*/
 
